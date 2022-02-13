@@ -43,7 +43,7 @@ CREATE TABLE `tbluser` (
 
 INSERT INTO `tbluser` (`ID`, `FullName`, `Email`, `MobileNumber`, `Comment`, `Password`, `RegDate`) VALUES
 (12, 'Jupiter Debbarma', 'erjupi98@gmail.com', 0, 'Hiii', 'b96e4e472c56d22ef12a52a35c2d0818', '2022-02-13 14:36:14'),
-(13, 'Ju', 'sd@gmail.com', 8837426573, 'Blaaaaaaaaaaaaaa', 'e9c514c758481cc9f1b30cf5156fa127', '2022-02-13 17:38:29');
+(13, 'Ju', 'sd@gmail.com', 1234567890, 'Blaaaaaaaaaaaaaa', 'e9c514c758481cc9f1b30cf5156fa127', '2022-02-13 17:38:29');
 
 --
 -- Indexes for dumped tables
