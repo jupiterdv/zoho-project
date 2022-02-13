@@ -1,5 +1,5 @@
 <?php
-$con=mysqli_connect("localhost", "u995265517_jupi", "Rajnagar98@#", "u995265517_jupiter");
+$con=mysqli_connect("localhost", "//changeusername", "//changepassword", "//changedatabaseusename");
 
 //username, password, databaseusername
 if(mysqli_connect_errno()){
